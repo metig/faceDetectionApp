@@ -1,4 +1,4 @@
-div {
+body {
     margin: 0;
     padding: 0;
     width: 100vw;
@@ -6,6 +6,7 @@ div {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: rgb(88, 68, 87);
   }
   h1{
     margin: 10px;
